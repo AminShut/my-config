@@ -1,0 +1,27 @@
+vless://80d98ae2-5990-4e0b-846b-3bfc615860ef@worker.workfarjady.workers.dev:443?encryption=none&security=tls&sni=workER.wORkfarJaDY.wORkErS.DeV&fp=chrome&type=ws&host=worker.workfarjady.workers.dev&path=%2FeyJqdW5rIjoiUjA4Y1Q4MWpPeVNyTW0iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119#💦 1 - VLESS - Domain
+
+vless://80d98ae2-5990-4e0b-846b-3bfc615860ef@www.speedtest.net:443?encryption=none&security=tls&sni=worKER.WorkfArJaDY.WORkerS.dEv&fp=chrome&type=ws&host=worker.workfarjady.workers.dev&path=%2FeyJqdW5rIjoicFQxa3YxTTEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119#💦 2 - VLESS - Domain
+
+vless://80d98ae2-5990-4e0b-846b-3bfc615860ef@172.67.204.129:443?encryption=none&security=tls&sni=WOrKeR.WORKfarJaDy.worKeRS.dEv&fp=chrome&type=ws&host=worker.workfarjady.workers.dev&path=%2FeyJqdW5rIjoiRktxV2dMM1giLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119#💦 3 - VLESS - IPv4
+
+vless://80d98ae2-5990-4e0b-846b-3bfc615860ef@104.21.61.5:443?encryption=none&security=tls&sni=woRkEr.WorkFARjaDy.WORKERs.DEv&fp=chrome&type=ws&host=worker.workfarjady.workers.dev&path=%2FeyJqdW5rIjoiN0lNYWxNRWNCdnN2Q0xZIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D#💦 4 - VLESS - IPv4
+
+vless://80d98ae2-5990-4e0b-846b-3bfc615860ef@[2606:4700:3031::6815:3d05]:443?encryption=none&security=tls&sni=WORkER.wOrkFArjadY.WorKers.dev&fp=chrome&type=ws&host=worker.workfarjady.workers.dev&path=%2FeyJqdW5rIjoiTE1Uc2RjZ0dzd2tMZlk5IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D#💦 5 - VLESS - IPv6
+
+vless://80d98ae2-5990-4e0b-846b-3bfc615860ef@[2606:4700:3033::ac43:cc81]:443?encryption=none&security=tls&sni=wOrKer.WoRkfARJady.WOrKerS.Dev&fp=chrome&type=ws&host=worker.workfarjady.workers.dev&path=%2FeyJqdW5rIjoiVk9tV0htclBqTTRTRCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D#💦 6 - VLESS - IPv6
+
+vless://80d98ae2-5990-4e0b-846b-3bfc615860ef@172.64.155.209:443?encryption=none&security=tls&sni=WORkEr.WORkFarjADy.WORkerS.dEv&fp=chrome&type=ws&host=worker.workfarjady.workers.dev&path=%2FeyJqdW5rIjoibXV1d2tKYXQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119#💦 7 - VLESS - Clean IP
+
+trojan://IRljsTMO9%7DnlVjF6@worker.workfarjady.workers.dev:443?security=tls&sni=WoRKeR.WORkFArJADy.wOrkErs.Dev&fp=chrome&type=ws&host=worker.workfarjady.workers.dev&path=%2FeyJqdW5rIjoiZURhVTZGUHlqdUIiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119#💦 1 - Trojan - Domain
+
+trojan://IRljsTMO9%7DnlVjF6@www.speedtest.net:443?security=tls&sni=woRKER.workfaRjaDy.WoRkerS.dEV&fp=chrome&type=ws&host=worker.workfarjady.workers.dev&path=%2FeyJqdW5rIjoiSklpTVRGaXYwZWlZQ1JuVyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D#💦 2 - Trojan - Domain
+
+trojan://IRljsTMO9%7DnlVjF6@172.67.204.129:443?security=tls&sni=WorKeR.WoRKFArjadY.wOrKeRs.DEv&fp=chrome&type=ws&host=worker.workfarjady.workers.dev&path=%2FeyJqdW5rIjoiNEpxUFJ4V1hmc3NadUUwdSIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D#💦 3 - Trojan - IPv4
+
+trojan://IRljsTMO9%7DnlVjF6@104.21.61.5:443?security=tls&sni=wOrKer.WORKFARjadY.WORKers.Dev&fp=chrome&type=ws&host=worker.workfarjady.workers.dev&path=%2FeyJqdW5rIjoiMERLcERRczlPaU81bVd3IiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D#💦 4 - Trojan - IPv4
+
+trojan://IRljsTMO9%7DnlVjF6@[2606:4700:3031::6815:3d05]:443?security=tls&sni=woRKer.wORKFarjADy.WORkeRS.DEV&fp=chrome&type=ws&host=worker.workfarjady.workers.dev&path=%2FeyJqdW5rIjoiYlVvZlk2czRjIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D#💦 5 - Trojan - IPv6
+
+trojan://IRljsTMO9%7DnlVjF6@[2606:4700:3033::ac43:cc81]:443?security=tls&sni=WORker.worKFARJAdy.wOrKERs.DeV&fp=chrome&type=ws&host=worker.workfarjady.workers.dev&path=%2FeyJqdW5rIjoiRW9OTmcxQ0oiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119#💦 6 - Trojan - IPv6
+
+trojan://IRljsTMO9%7DnlVjF6@172.64.155.209:443?security=tls&sni=WoRKer.worKfaRJadY.woRkerS.Dev&fp=chrome&type=ws&host=worker.workfarjady.workers.dev&path=%2FeyJqdW5rIjoidjU4UHpSYU1VS2NDamNlIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D#💦 7 - Trojan - Clean IP
